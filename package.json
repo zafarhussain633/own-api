@@ -1,0 +1,24 @@
+{
+  "name": "own-api",
+  "version": "1.0.0",
+  "description": "own json api ",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+     "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafarhussain633/own-api.git"
+  },
+  "author": "zafar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zafarhussain633/own-api/issues"
+  },
+  "homepage": "https://github.com/zafarhussain633/own-api#readme"
+}
